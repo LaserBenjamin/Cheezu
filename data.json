@@ -65,32 +65,32 @@
     {
       "code": "GB",
       "name": "United Kingdom",
-      "flag": "🇬🇧"
+      "flag": "ð¬ð§"
     },
     {
       "code": "FR",
       "name": "France",
-      "flag": "🇫🇷"
+      "flag": "ð«ð·"
     },
     {
       "code": "JP",
       "name": "Japan",
-      "flag": "🇯🇵"
+      "flag": "ð¯ðµ"
     },
     {
       "code": "US",
       "name": "United States",
-      "flag": "🇺🇸"
+      "flag": "ðºð¸"
     },
     {
       "code": "DE",
       "name": "Germany",
-      "flag": "🇩🇪"
+      "flag": "ð©ðª"
     },
     {
       "code": "IT",
       "name": "Italy",
-      "flag": "🇮🇹"
+      "flag": "ð®ð¹"
     }
   ],
   "visitedCities": [
@@ -150,6 +150,16 @@
       ]
     }
   ],
-  "spots": [],
-  "savedAt": "2026-04-21T12:40:04.658Z"
+  "spots": [
+    {
+      "id": "sp1777024971153",
+      "name": "Climb Central,  107",
+      "category": "sports",
+      "note": "",
+      "lat": 1.29141,
+      "lng": 103.8498818,
+      "peopleNames": []
+    }
+  ],
+  "savedAt": "2026-04-24T10:02:53.157Z"
 }
