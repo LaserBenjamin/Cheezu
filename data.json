@@ -59,6 +59,43 @@
           "type": "now"
         }
       ]
+    },
+    {
+      "name": "Anton Bergman",
+      "met": "climing at climb central singapore",
+      "together": "climbed",
+      "notes": "",
+      "contact": {
+        "email": "",
+        "phone": "",
+        "instagram": "",
+        "other": ""
+      },
+      "locations": [
+        {
+          "place": "Sweden",
+          "lat": 59.6749712,
+          "lng": 14.5208584,
+          "type": "born"
+        },
+        {
+          "place": "Singapore",
+          "lat": 1.357107,
+          "lng": 103.8194992,
+          "type": "lived"
+        },
+        {
+          "place": "Shin-maruko,  IDAIモール,  Kosugimachi 1-chome",
+          "lat": 35.5806646,
+          "lng": 139.6620517,
+          "type": "now"
+        }
+      ],
+      "metVenue": {
+        "name": "Si Sakhon District",
+        "lat": 6.102087993676283,
+        "lng": 101.45874023437501
+      }
     }
   ],
   "visitedCountries": [
@@ -159,7 +196,20 @@
       "lat": 1.29141,
       "lng": 103.8498818,
       "peopleNames": []
+    },
+    {
+      "id": "sp_met_1777025022603",
+      "name": "Si Sakhon District",
+      "category": "other",
+      "note": "Where you met Anton Bergman",
+      "lat": 6.102087993676283,
+      "lng": 101.45874023437501,
+      "peopleNames": [
+        "Anton Bergman"
+      ],
+      "_autoCreated": true,
+      "_metFor": "Anton Bergman"
     }
   ],
-  "savedAt": "2026-04-24T10:02:53.157Z"
+  "savedAt": "2026-04-24T10:03:44.607Z"
 }
