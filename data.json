@@ -65,32 +65,32 @@
     {
       "code": "GB",
       "name": "United Kingdom",
-      "flag": "ð¬ð§"
+      "flag": "Ã°ÂÂÂ¬Ã°ÂÂÂ§"
     },
     {
       "code": "FR",
       "name": "France",
-      "flag": "ð«ð·"
+      "flag": "Ã°ÂÂÂ«Ã°ÂÂÂ·"
     },
     {
       "code": "JP",
       "name": "Japan",
-      "flag": "ð¯ðµ"
+      "flag": "Ã°ÂÂÂ¯Ã°ÂÂÂµ"
     },
     {
       "code": "US",
       "name": "United States",
-      "flag": "ðºð¸"
+      "flag": "Ã°ÂÂÂºÃ°ÂÂÂ¸"
     },
     {
       "code": "DE",
       "name": "Germany",
-      "flag": "ð©ðª"
+      "flag": "Ã°ÂÂÂ©Ã°ÂÂÂª"
     },
     {
       "code": "IT",
       "name": "Italy",
-      "flag": "ð®ð¹"
+      "flag": "Ã°ÂÂÂ®Ã°ÂÂÂ¹"
     }
   ],
   "visitedCities": [
@@ -146,5 +146,5 @@
     }
   ],
   "spots": [],
-  "savedAt": "2026-04-25T01:29:29.226Z"
+  "savedAt": "2026-04-25T01:36:19.337Z"
 }
