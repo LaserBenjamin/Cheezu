@@ -458,6 +458,33 @@
         }
       ],
       "metVenue": null
+    },
+    {
+      "name": "f",
+      "met": "",
+      "together": "",
+      "notes": "",
+      "contact": {
+        "email": "",
+        "phone": "",
+        "instagram": "",
+        "other": ""
+      },
+      "locations": [
+        {
+          "place": "Afghanistan",
+          "lat": 33.7680065,
+          "lng": 66.2385139,
+          "type": "born"
+        },
+        {
+          "place": "singapore",
+          "lat": 1.357107,
+          "lng": 103.8194992,
+          "type": "now"
+        }
+      ],
+      "metVenue": null
     }
   ],
   "visitedCountries": [
@@ -545,5 +572,5 @@
     }
   ],
   "spots": [],
-  "savedAt": "2026-04-25T02:42:12.065Z"
+  "savedAt": "2026-04-25T02:42:59.219Z"
 }
