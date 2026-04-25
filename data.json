@@ -458,6 +458,33 @@
         }
       ],
       "metVenue": null
+    },
+    {
+      "name": "Benoit",
+      "met": "through anton",
+      "together": "hung out",
+      "notes": "",
+      "contact": {
+        "email": "",
+        "phone": "",
+        "instagram": "",
+        "other": ""
+      },
+      "locations": [
+        {
+          "place": "Versailles,  Yvelines,  Ile-de-France",
+          "lat": 48.8035403,
+          "lng": 2.1266886,
+          "type": "born"
+        },
+        {
+          "place": "Singapore",
+          "lat": 1.357107,
+          "lng": 103.8194992,
+          "type": "now"
+        }
+      ],
+      "metVenue": null
     }
   ],
   "visitedCountries": [
@@ -545,6 +572,13 @@
     }
   ],
   "spots": [],
-  "submissionLog": [],
-  "savedAt": "2026-04-25T02:45:55.637Z"
+  "submissionLog": [
+    {
+      "name": "Benoit",
+      "action": "approved",
+      "at": "2026-04-25T02:56:20.311Z",
+      "issueNumber": 9
+    }
+  ],
+  "savedAt": "2026-04-25T02:56:27.109Z"
 }
