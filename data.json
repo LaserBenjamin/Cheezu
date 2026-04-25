@@ -293,6 +293,171 @@
         }
       ],
       "metVenue": null
+    },
+    {
+      "name": "Anton",
+      "met": "",
+      "together": "Singapore",
+      "notes": "",
+      "contact": {
+        "email": "",
+        "phone": "",
+        "instagram": "",
+        "other": ""
+      },
+      "locations": [
+        {
+          "place": "Sweden",
+          "lat": 59.6749712,
+          "lng": 14.5208584,
+          "type": "born"
+        },
+        {
+          "place": "Japan",
+          "lat": 36.5748441,
+          "lng": 139.2394179,
+          "type": "now"
+        },
+        {
+          "place": "Singapore",
+          "lat": 1.357107,
+          "lng": 103.8194992,
+          "type": "lived"
+        }
+      ],
+      "metVenue": null
+    },
+    {
+      "name": "Anton",
+      "met": "",
+      "together": "Singapore",
+      "notes": "",
+      "contact": {
+        "email": "",
+        "phone": "",
+        "instagram": "",
+        "other": ""
+      },
+      "locations": [
+        {
+          "place": "Sweden",
+          "lat": 59.6749712,
+          "lng": 14.5208584,
+          "type": "born"
+        },
+        {
+          "place": "Japan",
+          "lat": 36.5748441,
+          "lng": 139.2394179,
+          "type": "now"
+        },
+        {
+          "place": "Singapore",
+          "lat": 1.357107,
+          "lng": 103.8194992,
+          "type": "lived"
+        }
+      ],
+      "metVenue": null
+    },
+    {
+      "name": "Anton",
+      "met": "",
+      "together": "Singapore",
+      "notes": "",
+      "contact": {
+        "email": "",
+        "phone": "",
+        "instagram": "",
+        "other": ""
+      },
+      "locations": [
+        {
+          "place": "Sweden",
+          "lat": 59.6749712,
+          "lng": 14.5208584,
+          "type": "born"
+        },
+        {
+          "place": "Japan",
+          "lat": 36.5748441,
+          "lng": 139.2394179,
+          "type": "now"
+        },
+        {
+          "place": "Singapore",
+          "lat": 1.357107,
+          "lng": 103.8194992,
+          "type": "lived"
+        }
+      ],
+      "metVenue": null
+    },
+    {
+      "name": "Anton",
+      "met": "",
+      "together": "Singapore",
+      "notes": "",
+      "contact": {
+        "email": "",
+        "phone": "",
+        "instagram": "",
+        "other": ""
+      },
+      "locations": [
+        {
+          "place": "Sweden",
+          "lat": 59.6749712,
+          "lng": 14.5208584,
+          "type": "born"
+        },
+        {
+          "place": "Japan",
+          "lat": 36.5748441,
+          "lng": 139.2394179,
+          "type": "now"
+        },
+        {
+          "place": "Singapore",
+          "lat": 1.357107,
+          "lng": 103.8194992,
+          "type": "lived"
+        }
+      ],
+      "metVenue": null
+    },
+    {
+      "name": "Anton",
+      "met": "",
+      "together": "Singapore",
+      "notes": "",
+      "contact": {
+        "email": "",
+        "phone": "",
+        "instagram": "",
+        "other": ""
+      },
+      "locations": [
+        {
+          "place": "Sweden",
+          "lat": 59.6749712,
+          "lng": 14.5208584,
+          "type": "born"
+        },
+        {
+          "place": "Japan",
+          "lat": 36.5748441,
+          "lng": 139.2394179,
+          "type": "now"
+        },
+        {
+          "place": "Singapore",
+          "lat": 1.357107,
+          "lng": 103.8194992,
+          "type": "lived"
+        }
+      ],
+      "metVenue": null
     }
   ],
   "visitedCountries": [
@@ -380,5 +545,5 @@
     }
   ],
   "spots": [],
-  "savedAt": "2026-04-25T02:41:31.044Z"
+  "savedAt": "2026-04-25T02:41:37.428Z"
 }
