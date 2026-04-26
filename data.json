@@ -566,6 +566,37 @@
         }
       ],
       "metVenue": null
+    },
+    {
+      "name": "Thiago",
+      "met": "Climbing",
+      "together": "climb",
+      "notes": "architect - build vans - travel often -climber - loves music and festivals",
+      "contact": {
+        "email": "thiagodegrossi@gmail.com",
+        "phone": "6789003465",
+        "instagram": "",
+        "other": "www.nomatect.com"
+      },
+      "locations": [
+        {
+          "place": "rio de janeiro, brasil",
+          "lat": 0,
+          "lng": 0,
+          "type": "born"
+        },
+        {
+          "place": "united states - vanlife - mobile",
+          "lat": 0,
+          "lng": 0,
+          "type": "now"
+        }
+      ],
+      "metVenue": {
+        "name": "Takaban 1",
+        "lat": 35.62550890899387,
+        "lng": 139.6886730194092
+      }
     }
   ],
   "visitedCountries": [
@@ -652,7 +683,21 @@
       ]
     }
   ],
-  "spots": [],
+  "spots": [
+    {
+      "id": "sp_met_1777179623850",
+      "name": "Takaban 1",
+      "category": "other",
+      "note": "Where you met Thiago",
+      "lat": 35.62550890899387,
+      "lng": 139.6886730194092,
+      "peopleNames": [
+        "Thiago"
+      ],
+      "_autoCreated": true,
+      "_metFor": "Thiago"
+    }
+  ],
   "submissionLog": [
     {
       "name": "Benoit",
@@ -661,5 +706,5 @@
       "issueNumber": 9
     }
   ],
-  "savedAt": "2026-04-26T04:54:38.127Z"
+  "savedAt": "2026-04-26T05:00:25.860Z"
 }
